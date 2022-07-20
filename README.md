@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TonyYenTWN
 - 👀 I’m interested in energy transition and renewable energy.
-- 🌱 I’m currently learning smart distribution grid.
+- 🌱 I’m currently modeling smart distribution networks and end-users.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
